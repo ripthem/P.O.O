@@ -42,3 +42,6 @@ if __name__ == "__main__":
     ]
     for mob in mobs:
         mob.presentarse()
+# Exception has occurred: TypeError
+# Can't instantiate abstract class Mob without an implementation for abstract methods 'comportamiento', 'hacer_sonido', 'moverse'
+# No deja hacerlo directo, ya que la clase 'Mob' funciona como clase abstracta, para que funcione debo importar "from Mob immport Mob" y crear una subclase 'Mob'.
