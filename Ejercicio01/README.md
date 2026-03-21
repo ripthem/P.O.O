@@ -27,10 +27,3 @@ El objetivo es modelar a un estudiante mediante atributos y métodos que permita
 * Listas en Python
 * Métodos de instancia
 * Cálculo de promedios
-
-
-## 📬 Notas
-
-Este ejercicio es una introducción práctica a la Programación Orientada a Objetos, enfocándose en la creación y uso de clases para representar entidades del mundo real.
-
-✨ *Ejercicio académico para reforzar los fundamentos de POO.*
