@@ -1,17 +1,29 @@
-Programación Orientada a Objetos (POO) 💻
+ 📘 Programación Orientada a Objetos
+ 
+📖 Introducción y descripcion del Repositorio
 
-Ingeniería en Sistemas Computacionales | Instituto Tecnológico de Ensenada Este repositorio contiene las prácticas, proyectos y ejercicios desarrollados durante el curso de Programación Orientada a Objetos. El objetivo principal es dominar el paradigma de la POO, el diseño de sistemas mediante UML y la implementación técnica en lenguajes de alto nivel.
+Este repositorio contiene prácticas, ejercicios y proyectos desarrollados durante la materia de Programación Orientada a Objetos (POO). Su propósito es aplicar los conceptos fundamentales de este paradigma de programación, tales como:
 
-🛠️ Tecnologías y Herramientas
+Clases y objetos
+Encapsulamiento
+Herencia
+Polimorfismo
+Abstracción
 
-Lenguajes: Python 3.x
+Cada carpeta o archivo representa un ejercicio específico enfocada en reforzar la lógica de programación y el diseño de software basado en objetos.
 
-Modelado: UML (Diagramas de Clase)
+🎯 Objetivos
+Comprender los principios de la programación orientada a objetos.
+Desarrollar soluciones estructuradas y reutilizables.
+Implementar buenas prácticas de programación.
+Mejorar la organización y mantenimiento del código.
 
-🎓 Sobre el Autor
+🛠️ Tecnologías Utilizadas
 
+ Python
+ Visual Studio Code
+
+👤 Información del Autor
 Nombre: David Castro Rodriguez
-
 Carrera: Ingeniería en Sistemas Computacionales
-
 Campus: Instituto Tecnológico de Ensenada (ITE)
