@@ -1,4 +1,4 @@
-Ejercicio: Herencia y Polimorfismo (Animales)
+🦁 Ejercicio: Herencia y Polimorfismo (Animales)
 Este proyecto demuestra cómo reutilizar código mediante la jerarquía de clases en Python. Se implementa una clase base (padre) y varias clases derivadas (hijas) que heredan sus atributos y modifican su comportamiento.
 
 🧬 Conceptos Aplicados
