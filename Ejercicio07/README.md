@@ -1,6 +1,21 @@
-⚠️ Introducción a las Excepciones en PythonEste repositorio es una guía práctica sobre el Manejo de Excepciones. Aprenderás a anticipar errores comunes para que tu programa no se detenga inesperadamente (el famoso "crash") cuando algo sale mal.🧐 ¿Qué es una Excepción?Una excepción es un error que ocurre durante la ejecución de un programa. En lugar de dejar que el programa "explote", usamos bloques try-except para capturar el error y darle una solución elegante al usuario.🛠️ Estructura del Manejo de ErroresEl manejo de excepciones en Python se basa en cuatro palabras clave:try: Aquí colocas el código que podría fallar.except: Aquí defines qué hacer si ocurre un error específico.else: Se ejecuta solo si no hubo errores en el bloque try.finally: Se ejecuta siempre, pase lo que pase (haya error o no). Ideal para cerrar archivos o limpiar procesos.📖 Ejercicios Incluidos1. División Segura (Manejo de tipos y aritmética)Este ejercicio muestra cómo proteger una operación matemática de los dos errores más comunes:ValueError: Cuando el usuario ingresa una letra en lugar de un número.ZeroDivisionError: Cuando el usuario intenta dividir entre cero ($n / 0$). 2. Acceso a Listas (Manejo de Índices)
+⚠️ Introducción a las Excepciones en Python
+Este repositorio es una guía práctica sobre el Manejo de Excepciones. Aprenderás a anticipar errores comunes para que tu programa no se detenga inesperadamente (el famoso "crash") cuando algo sale mal.
+
+🧐 ¿Qué es una Excepción?
+Una excepción es un error que ocurre durante la ejecución de un programa. En lugar de dejar que el programa "explote", usamos bloques try-except para capturar el error y darle una solución elegante al usuario.
+
+🛠️ Estructura del Manejo de Errores
+El manejo de excepciones en Python se basa en cuatro palabras clave:try: Aquí colocas el código que podría fallar.except: Aquí defines qué hacer si ocurre un error específico.else: Se ejecuta solo si no hubo errores en el bloque try.finally: Se ejecuta siempre, pase lo que pase (haya error o no). Ideal para cerrar archivos o limpiar procesos.
+
+📖 Ejercicios Incluidos
+1. División Segura (Manejo de tipos y aritmética)
+
+Este ejercicio muestra cómo proteger una operación matemática de los dos errores más comunes:
+ValueError: Cuando el usuario ingresa una letra en lugar de un número.
+ZeroDivisionError: Cuando el usuario intenta dividir entre cero ($n / 0$).
+ 
+2. Acceso a Listas (Manejo de Índices)
 En este ejemplo, trabajamos con una lista de colores para demostrar cómo evitar que el programa se rompa si intentamos acceder a un elemento que no existe:
 
 IndexError: Ocurre cuando pides el índice 10 en una lista que solo tiene 4 elementos.
-
 Alias de error (as e): Aprendemos a capturar el mensaje oficial del error usando la variable e.
