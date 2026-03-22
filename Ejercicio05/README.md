@@ -1,7 +1,3 @@
-¡Excelente! Aquí entramos en uno de los conceptos más avanzados y potentes de la POO. La Abstracción es como un "contrato" legal: aseguras que cualquier subclase cumpla con ciertas reglas sin importar cómo lo haga.
-
-Aquí tienes el README.md para este ejercicio:
-
 🎨 Introducción a la Abstracción en Python
 Este repositorio presenta un ejemplo claro y conciso sobre la Abstracción, utilizando el módulo nativo de Python abc (Abstract Base Classes). La abstracción nos permite definir interfaces comunes para un grupo de subclases.
 
