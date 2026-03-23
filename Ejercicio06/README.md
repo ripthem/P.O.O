@@ -35,6 +35,7 @@ Una durabilidad
 Un comportamiento específico al usarse
 
 📌 Notas
+
 Si la herramienta está rota, no puede usarse.
 Cada uso reduce la durabilidad.
 El daño depende del material.
