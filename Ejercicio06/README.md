@@ -5,23 +5,33 @@ Este proyecto implementa un sistema de herramientas inspirado en videojuegos (ti
 Se hace uso de:
 
 Clases abstractas
+
 Herencia
+
 Encapsulamiento
+
 Polimorfismo
+
 
 📌 Descripción
 
 El sistema define una clase base abstracta llamada Herramienta, de la cual heredan distintas herramientas como:
 
 🗡️ Espada
+
 ⛏️ Pico
+
 🪣 Pala
+
 🏹 Arco
+
 
 Cada herramienta tiene:
 
 Un material
+
 Una durabilidad
+
 Un comportamiento específico al usarse
 
 📌 Notas
